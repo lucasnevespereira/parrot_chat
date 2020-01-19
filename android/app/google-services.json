@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "141258946609",
+    "firebase_url": "https://parrot-chat-90cd6.firebaseio.com",
+    "project_id": "parrot-chat-90cd6",
+    "storage_bucket": "parrot-chat-90cd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141258946609:android:2a20164416d423abc3fd10",
+        "android_client_info": {
+          "package_name": "com.lucasnp.parrot_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141258946609-qj10kmeutq0hj109h7h9298jri461lkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPPfioZfzq_RfAkp5Gcus7vNo1YV1Atkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141258946609-qj10kmeutq0hj109h7h9298jri461lkt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "141258946609-bfn9ng13sekq1eaac56630jh64s736ff.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lucasnp.parrotChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
